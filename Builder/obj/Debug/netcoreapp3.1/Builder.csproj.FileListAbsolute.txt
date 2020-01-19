@@ -1,0 +1,11 @@
+C:\Users\Mariia\project\c\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\Mariia\project\c\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\Mariia\project\c\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\Mariia\project\c\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\Mariia\project\c\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Mariia\project\c\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Mariia\project\c\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\Mariia\project\c\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\Mariia\project\c\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\Mariia\project\c\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Mariia\project\c\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb

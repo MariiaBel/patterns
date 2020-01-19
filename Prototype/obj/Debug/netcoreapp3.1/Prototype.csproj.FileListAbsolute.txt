@@ -1,0 +1,11 @@
+C:\Users\Mariia\project\c\Builder\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\Mariia\project\c\Builder\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\Mariia\project\c\Builder\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\Mariia\project\c\Builder\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\Mariia\project\c\Builder\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\Mariia\project\c\Builder\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\Mariia\project\c\Builder\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\Mariia\project\c\Builder\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\Mariia\project\c\Builder\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\Mariia\project\c\Builder\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\Mariia\project\c\Builder\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb

@@ -1,0 +1,11 @@
+C:\Users\Mariia\project\c\Builder\Painting\bin\Debug\netcoreapp3.1\Painting.exe
+C:\Users\Mariia\project\c\Builder\Painting\bin\Debug\netcoreapp3.1\Painting.deps.json
+C:\Users\Mariia\project\c\Builder\Painting\bin\Debug\netcoreapp3.1\Painting.runtimeconfig.json
+C:\Users\Mariia\project\c\Builder\Painting\bin\Debug\netcoreapp3.1\Painting.runtimeconfig.dev.json
+C:\Users\Mariia\project\c\Builder\Painting\bin\Debug\netcoreapp3.1\Painting.dll
+C:\Users\Mariia\project\c\Builder\Painting\bin\Debug\netcoreapp3.1\Painting.pdb
+C:\Users\Mariia\project\c\Builder\Painting\obj\Debug\netcoreapp3.1\Painting.csprojAssemblyReference.cache
+C:\Users\Mariia\project\c\Builder\Painting\obj\Debug\netcoreapp3.1\Painting.AssemblyInfoInputs.cache
+C:\Users\Mariia\project\c\Builder\Painting\obj\Debug\netcoreapp3.1\Painting.AssemblyInfo.cs
+C:\Users\Mariia\project\c\Builder\Painting\obj\Debug\netcoreapp3.1\Painting.dll
+C:\Users\Mariia\project\c\Builder\Painting\obj\Debug\netcoreapp3.1\Painting.pdb
